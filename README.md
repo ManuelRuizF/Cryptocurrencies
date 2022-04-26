@@ -19,3 +19,7 @@ Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook
 We don't know what would be the output of the analysis so we are using unsupervised machine learning to identify clusters of the cryptocurrencies.
 We produced the elbow curve below using the K-Means method iterating on k values from 1 to 10.
 - The best k value appears to be 4 so we would conclude on an output of 4 clusters to categorize the crytocurrencies.
+
+## Summary 
+We have identified the classification of 532 cryptocurrencies based on similarities of their features.
+Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's clients.
