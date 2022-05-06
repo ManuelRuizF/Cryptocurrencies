@@ -28,4 +28,4 @@ We produced the elbow curve below using the K-Means method iterating on k values
 
 ## Summary 
 We have identified the classification of 532 cryptocurrencies based on similarities of their features.
-Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's clients.
+Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's clients
